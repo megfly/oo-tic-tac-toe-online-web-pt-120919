@@ -112,5 +112,8 @@ end
     end 
   end 
 end 
+
+    def display_board
+    end 
   
 end 
