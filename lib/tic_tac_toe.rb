@@ -119,6 +119,8 @@ end
     end 
       if won? 
         puts "Congratulations #{winner}!"
+      else if draw? 
+        puts "Cat's Game!"
       end 
     end 
   
