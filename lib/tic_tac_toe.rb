@@ -113,7 +113,7 @@ end
   end 
 end 
 
-    def display_board
+    def play
     end 
   
 end 
